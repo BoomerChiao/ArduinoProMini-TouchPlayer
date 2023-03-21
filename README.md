@@ -27,4 +27,6 @@ Arduino touch player for pro mini
 ![image](https://user-images.githubusercontent.com/107128781/217319670-6126ee7d-f6a6-4b16-bfef-773d7d7c8f71.png)
 
 
+![image](https://user-images.githubusercontent.com/107128781/226676066-652a5138-58f9-4b82-ad4a-654b00d88606.png)
+
    
